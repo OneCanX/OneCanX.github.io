@@ -30,9 +30,9 @@ https://onecanx.github.io/tags/LaTex/
 https://onecanx.github.io/tags/git/
 https://onecanx.github.io/tags/github/
 https://onecanx.github.io/tags/%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/
+https://onecanx.github.io/tags/hexo/
 https://onecanx.github.io/tags/vscode/
 https://onecanx.github.io/tags/%E9%85%8D%E7%BD%AE%E6%80%BB%E7%BB%93/
-https://onecanx.github.io/tags/hexo/
 https://onecanx.github.io/tags/pjax/
 https://onecanx.github.io/tags/Beamer/
 https://onecanx.github.io/tags/%E6%AF%95%E4%B8%9A/
