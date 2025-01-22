@@ -299,6 +299,13 @@
   </url>
   
   <url>
+    <loc>https://onecanx.github.io/tags/pjax/</loc>
+    <lastmod>2025-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://onecanx.github.io/tags/Beamer/</loc>
     <lastmod>2025-01-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -314,13 +321,6 @@
   
   <url>
     <loc>https://onecanx.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2025-01-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://onecanx.github.io/tags/pjax/</loc>
     <lastmod>2025-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
