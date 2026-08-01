@@ -1,0 +1,1 @@
+function ImgLazyLoad(t,a){const n=new IntersectionObserver(t=>{t.forEach(({isIntersecting:e,target:r})=>{setTimeout(function(){var t;e&&(t=r.getAttribute(a),r.setAttribute("src",t),n.unobserve(r))},500)})});mengd.$queryAll(t).forEach(t=>{n.observe(t)})}ImgLazyLoad("body img[data-src]","data-src");
