@@ -1,3 +1,6 @@
+https://onecanx.top/dsh/dsh.json
+https://onecanx.top/dsh/manifest.json
+https://onecanx.top/dsh/index.html
 https://onecanx.top/kimi/kimi.json
 https://onecanx.top/kimi/index.html
 https://onecanx.top/kimi/manifest.json

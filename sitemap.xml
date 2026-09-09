@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://onecanx.top/dsh/dsh.json</loc>
+    
+    <lastmod>2026-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onecanx.top/dsh/manifest.json</loc>
+    
+    <lastmod>2026-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onecanx.top/dsh/index.html</loc>
+    
+    <lastmod>2026-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://onecanx.top/kimi/kimi.json</loc>
     
     <lastmod>2026-09-09</lastmod>
